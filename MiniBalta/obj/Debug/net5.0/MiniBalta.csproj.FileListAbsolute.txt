@@ -1,0 +1,16 @@
+C:\Baltinha\MiniBalta\MiniBalta\bin\Debug\net5.0\MiniBalta.exe
+C:\Baltinha\MiniBalta\MiniBalta\bin\Debug\net5.0\MiniBalta.deps.json
+C:\Baltinha\MiniBalta\MiniBalta\bin\Debug\net5.0\MiniBalta.runtimeconfig.json
+C:\Baltinha\MiniBalta\MiniBalta\bin\Debug\net5.0\MiniBalta.runtimeconfig.dev.json
+C:\Baltinha\MiniBalta\MiniBalta\bin\Debug\net5.0\MiniBalta.dll
+C:\Baltinha\MiniBalta\MiniBalta\bin\Debug\net5.0\MiniBalta.pdb
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.csproj.AssemblyReference.cache
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.AssemblyInfoInputs.cache
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.AssemblyInfo.cs
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.csproj.CoreCompileInputs.cache
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.dll
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\refint\MiniBalta.dll
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.pdb
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\MiniBalta.genruntimeconfig.cache
+C:\Baltinha\MiniBalta\MiniBalta\obj\Debug\net5.0\ref\MiniBalta.dll
